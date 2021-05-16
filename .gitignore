@@ -1,0 +1,14 @@
+gshop-client_blank/
+
+gshop-client_pages/
+
+gshop-client_final/node_modules/
+gshop-client_final/dist/
+
+gshop/node_modules/
+gshop/dist/
+
+gshop-server_final/node_modules/
+
+
+
